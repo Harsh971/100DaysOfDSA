@@ -5,10 +5,9 @@
 </p>
 
 # 🛠 Tech Stack Used in this Repository...
- <a href="" target="_blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/128/3097/3097008.png" alt="C Language" height="50" width="50" /> </a> 
+ <a href="" target="_blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java Language" height="50" width="50" /> </a> 
    &nbsp;&nbsp;
- <a href="" target="_blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/128/8263/8263095.png" alt="CPP Language" height="50" width="50" /> </a>
-    
+
 
 # ⭐ 100DaysOfDSA 
 
