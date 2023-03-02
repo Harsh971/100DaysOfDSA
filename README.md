@@ -25,6 +25,9 @@
   <tr>
     <td>Day 1</td>   <td>✅</td>  <td>Sort An Array</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%201/Sort%20An%20Array_Leetcode">Click Here</a></td>
   </tr> 
+  <tr>
+    <td>Day 2</td>   <td>✅</td>  <td>String Compression</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%202/String%20Compression_Leetcode">Click Here</a></td>
+  </tr> 
   
   
 </table> 
@@ -36,6 +39,9 @@
   </tr>
   <tr>
     <td>Day 1</td>   <td>✅</td>  <td>Update Queries</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%201/Update%20Queries_GFG">Click Here</a></td>
+  </tr> 
+   <tr>
+    <td>Day 2</td>   <td>✅</td>  <td>Walls Coloring II</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%202/Walls%20Coloring%20II_GFG">Click Here</a></td>
   </tr> 
  
 </table> 
