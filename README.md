@@ -20,14 +20,17 @@
 ## LeetCode
 <table> 
   <tr>
-    <th></th>  <th>Status</th>   <th>Problem Name</th>   <th>Problem Solution</th>
+    <th></th>  <th>Date</th>  <th>Status</th>   <th>Problem Name</th>   <th>Problem Solution</th>
   </tr>
   <tr>
-    <td>Day 1</td>   <td>✅</td>  <td>Sort An Array</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%201/Sort%20An%20Array_Leetcode">Click Here</a></td>
+    <td>Day 1</td>  <td>01-March</td>   <td>✅</td>  <td>Sort An Array</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%201/Sort%20An%20Array_Leetcode">Click Here</a></td>
   </tr> 
   <tr>
-    <td>Day 2</td>   <td>✅</td>  <td>String Compression</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%202/String%20Compression_Leetcode">Click Here</a></td>
+    <td>Day 2</td>  <td>02-March</td>  <td>✅</td>  <td>String Compression</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%202/String%20Compression_Leetcode">Click Here</a></td>
   </tr> 
+  <tr>
+    <td>Day 3</td> <td>03-March</td> <td>✅</td>  <td>Find the Index of the First Occurrence in a String</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%203/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table> 
@@ -35,14 +38,17 @@
 ## GeeksForGeeks
 <table> 
   <tr>
-    <th></th>  <th>Status</th>   <th>Problem Name</th>   <th>Problem Solution</th>
+    <th></th>  <th>Date</th>  <th>Status</th>   <th>Problem Name</th>   <th>Problem Solution</th>
   </tr>
   <tr>
-    <td>Day 1</td>   <td>✅</td>  <td>Update Queries</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%201/Update%20Queries_GFG">Click Here</a></td>
+    <td>Day 1</td>  <td>01-March</td>  <td>✅</td>  <td>Update Queries</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%201/Update%20Queries_GFG">Click Here</a></td>
   </tr> 
    <tr>
-    <td>Day 2</td>   <td>✅</td>  <td>Walls Coloring II</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%202/Walls%20Coloring%20II_GFG">Click Here</a></td>
-  </tr> 
+    <td>Day 2</td>  <td>02-March</td>  <td>✅</td>  <td>Walls Coloring II</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%202/Walls%20Coloring%20II_GFG">Click Here</a></td>
+  </tr>
+  <tr>
+    <td>Day 3</td>  <td>03-March</td>  <td>✅</td>  <td>Cutting Rectangles</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%203/Cutting%20Rectangles_GFG">Click Here</a></td>
+  </tr>
  
 </table> 
 
