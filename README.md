@@ -31,6 +31,9 @@
   <tr>
     <td>Day 3</td> <td>03-March</td> <td>✅</td>  <td>Find the Index of the First Occurrence in a String</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%203/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+    <td>Day 4</td> <td>04-March</td> <td>✅</td>  <td>Count Subarrays With Fixed Bounds</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%204/Count%20Subarrays%20With%20Fixed%20Bounds_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table> 
@@ -48,6 +51,9 @@
   </tr>
   <tr>
     <td>Day 3</td>  <td>03-March</td>  <td>✅</td>  <td>Cutting Rectangles</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%203/Cutting%20Rectangles_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+    <td>Day 4</td>  <td>04-March</td>  <td>✅</td>  <td>Best Node</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%204/Best%20Node_GFG">Click Here</a></td>
   </tr>
  
 </table> 
