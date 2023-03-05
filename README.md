@@ -34,6 +34,9 @@
    <tr>
     <td>Day 4</td> <td>04-March</td> <td>✅</td>  <td>Count Subarrays With Fixed Bounds</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%204/Count%20Subarrays%20With%20Fixed%20Bounds_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+    <td>Day 5</td> <td>05-March</td> <td>✅</td>  <td>Jump Game IV</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%205/Jump%20Game%20IV_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table> 
@@ -54,6 +57,9 @@
   </tr>
    <tr>
     <td>Day 4</td>  <td>04-March</td>  <td>✅</td>  <td>Best Node</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%204/Best%20Node_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+    <td>Day 5</td>  <td>05-March</td>  <td>✅</td>  <td>Avoid Explosion</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%205/Avoid%20Explosion_GFG">Click Here</a></td>
   </tr>
  
 </table> 
