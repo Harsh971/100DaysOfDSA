@@ -37,6 +37,9 @@
    <tr>
     <td>Day 5</td> <td>05-March</td> <td>✅</td>  <td>Jump Game IV</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%205/Jump%20Game%20IV_Leetcode">Click Here</a></td>
   </tr>
+  <tr>
+    <td>Day 6</td> <td>06-March</td> <td>✅</td>  <td>Kth Missing Positive Number</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%206/Kth%20Missing%20Positive%20Number_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table> 
@@ -60,6 +63,9 @@
   </tr>
    <tr>
     <td>Day 5</td>  <td>05-March</td>  <td>✅</td>  <td>Avoid Explosion</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%205/Avoid%20Explosion_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+    <td>Day 6</td>  <td>06-March</td>  <td>✅</td>  <td>Geek hates too many 1s</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%206/Geek%20hates%20too%20many%201s_GFG">Click Here</a></td>
   </tr>
  
 </table> 
