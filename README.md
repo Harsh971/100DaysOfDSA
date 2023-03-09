@@ -46,6 +46,9 @@
   <tr>
     <td>Day 8</td> <td>08-March</td> <td>✅</td>  <td>Koko Eating Bananas</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%208/Koko%20Eating%20Bananas_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+    <td>Day 9</td> <td>09-March</td> <td>✅</td>  <td>Linked List Cycle II</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%209/Linked%20List%20Cycle%20II_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table> 
@@ -78,6 +81,9 @@
   </tr>
     <tr>
     <td>Day 8</td>  <td>08-March</td>  <td>✅</td>  <td>Max min Height</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%208/Max%20min%20Height_GFG">Click Here</a></td>
+  </tr>
+    <tr>
+    <td>Day 9</td>  <td>09-March</td>  <td>✅</td>  <td>Find anagrams in linked list</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%209/Find%20anagrams%20in%20linked%20list_GFG">Click Here</a></td>
   </tr>
  
 </table> 
