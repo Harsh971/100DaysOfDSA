@@ -49,6 +49,9 @@
    <tr>
     <td>Day 9</td> <td>09-March</td> <td>✅</td>  <td>Linked List Cycle II</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%209/Linked%20List%20Cycle%20II_Leetcode">Click Here</a></td>
   </tr>
+  <tr>
+    <td>Day 10</td> <td>10-March</td> <td>✅</td>  <td>Linked List Random Node</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2010/Linked%20List%20Random%20Node_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table> 
@@ -84,6 +87,9 @@
   </tr>
     <tr>
     <td>Day 9</td>  <td>09-March</td>  <td>✅</td>  <td>Find anagrams in linked list</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%209/Find%20anagrams%20in%20linked%20list_GFG">Click Here</a></td>
+  </tr>
+  <tr>
+    <td>Day 10</td> <td>10-March</td> <td>✅</td>  <td>Maximum Triplet product</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2010/Maximum%20Triplet%20product_GFG">Click Here</a></td>
   </tr>
  
 </table> 
