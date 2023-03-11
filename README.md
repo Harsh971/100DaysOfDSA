@@ -52,6 +52,9 @@
   <tr>
     <td>Day 10</td> <td>10-March</td> <td>✅</td>  <td>Linked List Random Node</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2010/Linked%20List%20Random%20Node_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+    <td>Day 11</td> <td>11-March</td> <td>✅</td>  <td>Convert Sorted List to Binary Search Tree</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2011/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table> 
@@ -90,6 +93,9 @@
   </tr>
   <tr>
     <td>Day 10</td> <td>10-March</td> <td>✅</td>  <td>Maximum Triplet product</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2010/Maximum%20Triplet%20product_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+    <td>Day 11</td> <td>11-March</td> <td>✅</td>  <td>Yet another query problem</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2011/Yet%20another%20query%20problem_GFG">Click Here</a></td>
   </tr>
  
 </table> 
