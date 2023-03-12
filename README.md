@@ -55,6 +55,9 @@
    <tr>
     <td>Day 11</td> <td>11-March</td> <td>✅</td>  <td>Convert Sorted List to Binary Search Tree</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2011/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+    <td>Day 12</td> <td>12-March</td> <td>✅</td>  <td>Merge k Sorted Lists</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2012/Merge%20k%20Sorted%20Lists_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table> 
@@ -96,6 +99,9 @@
   </tr>
    <tr>
     <td>Day 11</td> <td>11-March</td> <td>✅</td>  <td>Yet another query problem</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2011/Yet%20another%20query%20problem_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+    <td>Day 12</td> <td>12-March</td> <td>✅</td>  <td>Binary matrix having maximum number of 1s</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2012/Binary%20matrix%20having%20maximum%20number%20of%201s_GFG">Click Here</a></td>
   </tr>
  
 </table> 
