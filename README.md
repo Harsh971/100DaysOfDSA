@@ -61,6 +61,9 @@
   <tr>
     <td>Day 13</td> <td>13-March</td> <td>✅</td>  <td>Symmetric Tree</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2013/Symmetric%20Tree_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+    <td>Day 14</td> <td>14-March</td> <td>✅</td>  <td>Sum Root to Leaf Numbers</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2014/Sum%20Root%20to%20Leaf%20Numbers_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table> 
@@ -108,6 +111,9 @@
   </tr>
   <tr>
     <td>Day 13</td> <td>13-March</td> <td>✅</td>  <td>Maximum Possible Value</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2013/Maximum%20Possible%20Value_GFG">Click Here</a></td>
+  </tr>
+  <tr>
+    <td>Day 14</td> <td>14-March</td> <td>✅</td>  <td>Maximum Number of coins</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2014/Maximum%20Number%20of%20coins_GFG">Click Here</a></td>
   </tr>
  
 </table> 
