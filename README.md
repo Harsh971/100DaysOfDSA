@@ -64,6 +64,9 @@
    <tr>
     <td>Day 14</td> <td>14-March</td> <td>✅</td>  <td>Sum Root to Leaf Numbers</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2014/Sum%20Root%20to%20Leaf%20Numbers_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+    <td>Day 15</td> <td>15-March</td> <td>✅</td>  <td>Check Completeness of a Binary Tree</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2015/Check%20Completeness%20of%20a%20Binary%20Tree_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table> 
@@ -114,6 +117,9 @@
   </tr>
   <tr>
     <td>Day 14</td> <td>14-March</td> <td>✅</td>  <td>Maximum Number of coins</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2014/Maximum%20Number%20of%20coins_GFG">Click Here</a></td>
+  </tr>
+  <tr>
+    <td>Day 15</td> <td>15-March</td> <td>✅</td>  <td>Special Palindrome Substrings</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2015/Special%20Palindrome%20Substrings_GFG">Click Here</a></td>
   </tr>
  
 </table> 
