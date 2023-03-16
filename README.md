@@ -67,6 +67,9 @@
    <tr>
     <td>Day 15</td> <td>15-March</td> <td>✅</td>  <td>Check Completeness of a Binary Tree</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2015/Check%20Completeness%20of%20a%20Binary%20Tree_Leetcode">Click Here</a></td>
   </tr>
+  <tr>
+    <td>Day 16</td> <td>16-March</td> <td>✅</td>  <td>Construct Binary Tree from Inorder and Postorder Traversal</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2016/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table> 
@@ -120,6 +123,9 @@
   </tr>
   <tr>
     <td>Day 15</td> <td>15-March</td> <td>✅</td>  <td>Special Palindrome Substrings</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2015/Special%20Palindrome%20Substrings_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+    <td>Day 16</td> <td>16-March</td> <td>✅</td>  <td>Second smallest number</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2016/Second%20smallest%20number_GFG">Click Here</a></td>
   </tr>
  
 </table> 
