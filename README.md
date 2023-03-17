@@ -130,7 +130,7 @@
     <td>Day 16</td> <td>16-March</td> <td>✅</td>  <td>Second smallest number</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2016/Second%20smallest%20number_GFG">Click Here</a></td>
   </tr>
   <tr>
-    <td>Day 17</td> <td>17-March</td> <td>✅</td>  <td>Number of Subarrays of 0's_GFG</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2017/Number%20of%20Subarrays%20of%200's_GFG">Click Here</a></td>
+    <td>Day 17</td> <td>17-March</td> <td>✅</td>  <td>Number of Subarrays of 0's</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2017/Number%20of%20Subarrays%20of%200's_GFG">Click Here</a></td>
   </tr>
  
 </table> 
