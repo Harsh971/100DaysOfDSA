@@ -70,11 +70,15 @@
   <tr>
     <td>Day 16</td> <td>16-March</td> <td>✅</td>  <td>Construct Binary Tree from Inorder and Postorder Traversal</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2016/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal_Leetcode">Click Here</a></td>
   </tr>
+  <tr>
    <td>Day 17</td> <td>17-March</td> <td>✅</td>  <td>Implement Trie (Prefix Tree)</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2017/Implement%20Trie%20(Prefix%20Tree)_Leetcode">Click Here</a></td>
+  </tr>
+   <tr>
+   <td>Day 18</td> <td>18-March</td> <td>✅</td>  <td>Design Browser History</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2018/Design%20Browser%20History_Leetcode">Click Here</a></td>
   </tr>
   
   
-</table> 
+</table>
 
 ## GeeksForGeeks
 <table> 
@@ -131,6 +135,9 @@
   </tr>
   <tr>
     <td>Day 17</td> <td>17-March</td> <td>✅</td>  <td>Number of Subarrays of 0's</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2017/Number%20of%20Subarrays%20of%200's_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+    <td>Day 18</td> <td>18-March</td> <td>✅</td>  <td>Median of the Subarrays</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2018/Median%20of%20the%20Subarrays_GFG">Click Here</a></td>
   </tr>
  
 </table> 
