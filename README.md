@@ -76,6 +76,9 @@
    <tr>
    <td>Day 18</td> <td>18-March</td> <td>✅</td>  <td>Design Browser History</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2018/Design%20Browser%20History_Leetcode">Click Here</a></td>
   </tr>
+    <tr>
+   <td>Day 19</td> <td>19-March</td> <td>✅</td>  <td>Design Add and Search Words Data Structure</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2019/Design%20Add%20and%20Search%20Words%20Data%20Structure_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -138,6 +141,9 @@
   </tr>
    <tr>
     <td>Day 18</td> <td>18-March</td> <td>✅</td>  <td>Median of the Subarrays</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2018/Median%20of%20the%20Subarrays_GFG">Click Here</a></td>
+  </tr>
+  <tr>
+    <td>Day 19</td> <td>19-March</td> <td>✅</td>  <td>Distinct Difference</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2019/Distinct%20Difference_GFG">Click Here</a></td>
   </tr>
  
 </table> 
