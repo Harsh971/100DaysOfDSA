@@ -79,6 +79,9 @@
     <tr>
    <td>Day 19</td> <td>19-March</td> <td>✅</td>  <td>Design Add and Search Words Data Structure</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2019/Design%20Add%20and%20Search%20Words%20Data%20Structure_Leetcode">Click Here</a></td>
   </tr>
+  <tr>
+   <td>Day 20</td> <td>20-March</td> <td>✅</td>  <td>Can Place Flowers</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2020/Can%20Place%20Flowers_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -144,6 +147,9 @@
   </tr>
   <tr>
     <td>Day 19</td> <td>19-March</td> <td>✅</td>  <td>Distinct Difference</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2019/Distinct%20Difference_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+    <td>Day 20</td> <td>20-March</td> <td>✅</td>  <td>Shortest XY distance in Grid</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2020/Shortest%20XY%20distance%20in%20Grid_GFG">Click Here</a></td>
   </tr>
  
 </table> 
