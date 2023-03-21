@@ -82,6 +82,9 @@
   <tr>
    <td>Day 20</td> <td>20-March</td> <td>✅</td>  <td>Can Place Flowers</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2020/Can%20Place%20Flowers_Leetcode">Click Here</a></td>
   </tr>
+  <tr>
+   <td>Day 21</td> <td>21-March</td> <td>✅</td>  <td>Number of Zero-Filled Subarrays</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2021/Number%20of%20Zero-Filled%20Subarrays_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -150,6 +153,9 @@
   </tr>
    <tr>
     <td>Day 20</td> <td>20-March</td> <td>✅</td>  <td>Shortest XY distance in Grid</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2020/Shortest%20XY%20distance%20in%20Grid_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+    <td>Day 21</td> <td>21-March</td> <td>✅</td>  <td>Taxi Booking</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2021/Taxi%20Booking_GFG">Click Here</a></td>
   </tr>
  
 </table> 
