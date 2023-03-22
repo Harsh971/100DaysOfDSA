@@ -85,6 +85,9 @@
   <tr>
    <td>Day 21</td> <td>21-March</td> <td>✅</td>  <td>Number of Zero-Filled Subarrays</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2021/Number%20of%20Zero-Filled%20Subarrays_Leetcode">Click Here</a></td>
   </tr>
+    <tr>
+   <td>Day 22</td> <td>22-March</td> <td>✅</td>  <td>Minimum Score of a Path Between Two Cities</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2022/Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -156,6 +159,9 @@
   </tr>
    <tr>
     <td>Day 21</td> <td>21-March</td> <td>✅</td>  <td>Taxi Booking</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2021/Taxi%20Booking_GFG">Click Here</a></td>
+  </tr>
+    <tr>
+    <td>Day 22</td> <td>22-March</td> <td>✅</td>  <td>String rp or pr</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2022/String%20rp%20or%20pr_GFG">Click Here</a></td>
   </tr>
  
 </table> 
