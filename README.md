@@ -167,7 +167,7 @@
     <td>Day 22</td> <td>22-March</td> <td>✅</td>  <td>String rp or pr</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2022/String%20rp%20or%20pr_GFG">Click Here</a></td>
   </tr>
    <tr>
-    <td>Day 23</td> <td>23-March</td> <td>✅</td>  <td>BST Maximum Difference_GFG</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2023/BST%20Maximum%20Difference_GFG">Click Here</a></td>
+    <td>Day 23</td> <td>23-March</td> <td>✅</td>  <td>BST Maximum Difference</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2023/BST%20Maximum%20Difference_GFG">Click Here</a></td>
   </tr>
  
 </table> 
