@@ -91,6 +91,9 @@
    <tr>
    <td>Day 23</td> <td>23-March</td> <td>✅</td>  <td>Number of Operations to Make Network Connected</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2023/Number%20of%20Operations%20to%20Make%20Network%20Connected_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+   <td>Day 24</td> <td>24-March</td> <td>✅</td>  <td>Reorder Routes to Make All Paths Lead to the City Zero</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2024/Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -168,6 +171,9 @@
   </tr>
    <tr>
     <td>Day 23</td> <td>23-March</td> <td>✅</td>  <td>BST Maximum Difference</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2023/BST%20Maximum%20Difference_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+    <td>Day 24</td> <td>24-March</td> <td>✅</td>  <td>Remove and Reverse</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2024/Remove%20and%20Reverse_GFG">Click Here</a></td>
   </tr>
  
 </table> 
