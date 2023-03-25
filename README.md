@@ -94,6 +94,9 @@
    <tr>
    <td>Day 24</td> <td>24-March</td> <td>✅</td>  <td>Reorder Routes to Make All Paths Lead to the City Zero</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2024/Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero_Leetcode">Click Here</a></td>
   </tr>
+  <tr>
+   <td>Day 25</td> <td>25-March</td> <td>✅</td>  <td>Count Unreachable Pairs of Nodes in an Undirected Graph</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2025/Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -174,6 +177,9 @@
   </tr>
    <tr>
     <td>Day 24</td> <td>24-March</td> <td>✅</td>  <td>Remove and Reverse</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2024/Remove%20and%20Reverse_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+    <td>Day 25</td> <td>25-March</td> <td>✅</td>  <td>Redundant Parenthesis</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2025/Redundant%20Parenthesis_GFG">Click Here</a></td>
   </tr>
  
 </table> 
