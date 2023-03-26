@@ -97,6 +97,9 @@
   <tr>
    <td>Day 25</td> <td>25-March</td> <td>✅</td>  <td>Count Unreachable Pairs of Nodes in an Undirected Graph</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2025/Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph_Leetcode">Click Here</a></td>
   </tr>
+  <tr>
+   <td>Day 26</td> <td>26-March</td> <td>✅</td>  <td>Longest Cycle in a Graph</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2026/Longest%20Cycle%20in%20a%20Graph_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -180,6 +183,9 @@
   </tr>
    <tr>
     <td>Day 25</td> <td>25-March</td> <td>✅</td>  <td>Redundant Parenthesis</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2025/Redundant%20Parenthesis_GFG">Click Here</a></td>
+  </tr>
+  <tr>
+    <td>Day 26</td> <td>26-March</td> <td>✅</td>  <td>Frogs and Jumps</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2026/Frogs%20and%20Jumps_GFG">Click Here</a></td>
   </tr>
  
 </table> 
