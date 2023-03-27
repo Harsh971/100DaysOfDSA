@@ -100,6 +100,9 @@
   <tr>
    <td>Day 26</td> <td>26-March</td> <td>✅</td>  <td>Longest Cycle in a Graph</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2026/Longest%20Cycle%20in%20a%20Graph_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+   <td>Day 27</td> <td>27-March</td> <td>✅</td>  <td>Minimum Path Sum</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2027/Minimum%20Path%20Sum_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -186,6 +189,9 @@
   </tr>
   <tr>
     <td>Day 26</td> <td>26-March</td> <td>✅</td>  <td>Frogs and Jumps</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2026/Frogs%20and%20Jumps_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+    <td>Day 27</td> <td>27-March</td> <td>✅</td>  <td>Divide in Incremental Groups</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2027/Divide%20in%20Incremental%20Groups_GFG">Click Here</a></td>
   </tr>
  
 </table> 
