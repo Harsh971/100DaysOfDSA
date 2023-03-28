@@ -103,6 +103,9 @@
    <tr>
    <td>Day 27</td> <td>27-March</td> <td>✅</td>  <td>Minimum Path Sum</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2027/Minimum%20Path%20Sum_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+   <td>Day 28</td> <td>28-March</td> <td>✅</td>  <td>Minimum Cost For Tickets</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2028/Minimum%20Cost%20For%20Tickets_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -193,7 +196,10 @@
    <tr>
     <td>Day 27</td> <td>27-March</td> <td>✅</td>  <td>Divide in Incremental Groups</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2027/Divide%20in%20Incremental%20Groups_GFG">Click Here</a></td>
   </tr>
- 
+  <tr>
+    <td>Day 28</td> <td>28-March</td> <td>✅</td>  <td>Shy Geek</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2028/Shy%20Geek_GFG">Click Here</a></td>
+  </tr>
+  
 </table> 
 
 
