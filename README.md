@@ -106,6 +106,15 @@
    <tr>
    <td>Day 28</td> <td>28-March</td> <td>✅</td>  <td>Minimum Cost For Tickets</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2028/Minimum%20Cost%20For%20Tickets_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+   <td>Day 29</td> <td>29-March</td> <td>✅</td>  <td>Scramble String</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2029/Scramble%20String_Leetcode">Click Here</a></td>
+  </tr>
+   <tr>
+   <td>Day 30</td> <td>30-March</td> <td>✅</td>  <td>Reducing Dishes</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2030/Reducing%20Dishes_Leetcode">Click Here</a></td>
+  </tr>
+   <tr>
+   <td>Day 31</td> <td>31-March</td> <td>✅</td>  <td>Number of Ways of Cutting a Pizza</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2031/Number%20of%20Ways%20of%20Cutting%20a%20Pizza_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -198,6 +207,15 @@
   </tr>
   <tr>
     <td>Day 28</td> <td>28-March</td> <td>✅</td>  <td>Shy Geek</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2028/Shy%20Geek_GFG">Click Here</a></td>
+  </tr>
+  <tr>
+    <td>Day 29</td> <td>29-March</td> <td>✅</td>  <td>Count the Substrings</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2029/Count%20the%20Substrings_GFG">Click Here</a></td>
+  </tr>
+  <tr>
+    <td>Day 30</td> <td>30-March</td> <td>✅</td>  <td>Minimum Integer</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2030/Minimum%20Integer_GFG">Click Here</a></td>
+  </tr>
+  <tr>
+    <td>Day 31</td> <td>31-March</td> <td>✅</td>  <td>Even Swap</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2031/Even%20Swap_GFG">Click Here</a></td>
   </tr>
   
 </table> 
