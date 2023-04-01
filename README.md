@@ -115,6 +115,9 @@
    <tr>
    <td>Day 31</td> <td>31-March</td> <td>✅</td>  <td>Number of Ways of Cutting a Pizza</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2031/Number%20of%20Ways%20of%20Cutting%20a%20Pizza_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+   <td>Day 32</td> <td>01-April</td> <td>✅</td>  <td>Binary Search</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2032/Binary%20Search_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -216,6 +219,9 @@
   </tr>
   <tr>
     <td>Day 31</td> <td>31-March</td> <td>✅</td>  <td>Even Swap</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2031/Even%20Swap_GFG">Click Here</a></td>
+  </tr>
+  <tr>
+    <td>Day 32</td> <td>01-April</td> <td>✅</td>  <td>Make Array Elements Equal_GFG</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2032/Make%20Array%20Elements%20Equal_GFG">Click Here</a></td>
   </tr>
   
 </table> 
