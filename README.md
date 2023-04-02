@@ -118,6 +118,9 @@
    <tr>
    <td>Day 32</td> <td>01-April</td> <td>✅</td>  <td>Binary Search</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2032/Binary%20Search_Leetcode">Click Here</a></td>
   </tr>
+ <tr>
+   <td>Day 33</td> <td>02-April</td> <td>✅</td>  <td>Successful Pairs of Spells and Potions</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2033/Successful%20Pairs%20of%20Spells%20and%20Potions_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -221,7 +224,10 @@
     <td>Day 31</td> <td>31-March</td> <td>✅</td>  <td>Even Swap</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2031/Even%20Swap_GFG">Click Here</a></td>
   </tr>
   <tr>
-    <td>Day 32</td> <td>01-April</td> <td>✅</td>  <td>Make Array Elements Equal_GFG</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2032/Make%20Array%20Elements%20Equal_GFG">Click Here</a></td>
+    <td>Day 32</td> <td>01-April</td> <td>✅</td>  <td>Make Array Elements Equal</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2032/Make%20Array%20Elements%20Equal_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+    <td>Day 33</td> <td>02-April</td> <td>✅</td>  <td>Knight in Geekland</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2033/Knight%20in%20Geekland_GFG">Click Here</a></td>
   </tr>
   
 </table> 
