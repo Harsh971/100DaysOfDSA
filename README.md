@@ -127,6 +127,9 @@
   <tr>
    <td>Day 35</td> <td>04-April</td> <td>✅</td>  <td>Optimal Partition of String</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2035/Optimal%20Partition%20of%20String_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+   <td>Day 36</td> <td>05-April</td> <td>✅</td>  <td>Minimize Maximum of Array</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2036/Minimize%20Maximum%20of%20Array_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -240,6 +243,9 @@
   </tr>
     <tr>
    <td>Day 35</td> <td>04-April</td> <td>✅</td>  <td>Minimum Steps Required</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2035/Minimum%20Steps%20Required_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+   <td>Day 36</td> <td>05-April</td> <td>✅</td>  <td>Count Special Numbers</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2036/Count%20Special%20Numbers_GFG">Click Here</a></td>
   </tr>
   
 </table> 
