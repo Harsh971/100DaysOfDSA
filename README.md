@@ -130,6 +130,9 @@
    <tr>
    <td>Day 36</td> <td>05-April</td> <td>✅</td>  <td>Minimize Maximum of Array</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2036/Minimize%20Maximum%20of%20Array_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+   <td>Day 37</td> <td>06-April</td> <td>✅</td>  <td>Number of Closed Islands</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2037/Number%20of%20Closed%20Islands_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -246,6 +249,9 @@
   </tr>
    <tr>
    <td>Day 36</td> <td>05-April</td> <td>✅</td>  <td>Count Special Numbers</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2036/Count%20Special%20Numbers_GFG">Click Here</a></td>
+  </tr>
+    <tr>
+   <td>Day 37</td> <td>06-April</td> <td>✅</td>  <td>Equal Left and Right Subarray Sum</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2037/Equal%20Left%20and%20Right%20Subarray%20Sum_GFG">Click Here</a></td>
   </tr>
   
 </table> 
