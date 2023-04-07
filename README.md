@@ -133,6 +133,9 @@
    <tr>
    <td>Day 37</td> <td>06-April</td> <td>✅</td>  <td>Number of Closed Islands</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2037/Number%20of%20Closed%20Islands_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+   <td>Day 38</td> <td>07-April</td> <td>✅</td>  <td>Number of Enclaves</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2038/Number%20of%20Enclaves_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -252,6 +255,9 @@
   </tr>
     <tr>
    <td>Day 37</td> <td>06-April</td> <td>✅</td>  <td>Equal Left and Right Subarray Sum</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2037/Equal%20Left%20and%20Right%20Subarray%20Sum_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+   <td>Day 38</td> <td>07-April</td> <td>✅</td>  <td>Add Minimum Characters</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2038/Add%20Minimum%20Characters_GFG">Click Here</a></td>
   </tr>
   
 </table> 
