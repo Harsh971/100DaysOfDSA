@@ -136,6 +136,9 @@
    <tr>
    <td>Day 38</td> <td>07-April</td> <td>✅</td>  <td>Number of Enclaves</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2038/Number%20of%20Enclaves_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+   <td>Day 39</td> <td>08-April</td> <td>✅</td>  <td>Clone Graph</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2039/Clone%20Graph_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -258,6 +261,9 @@
   </tr>
    <tr>
    <td>Day 38</td> <td>07-April</td> <td>✅</td>  <td>Add Minimum Characters</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2038/Add%20Minimum%20Characters_GFG">Click Here</a></td>
+  </tr>
+    <tr>
+   <td>Day 39</td> <td>08-April</td> <td>✅</td>  <td>Make the array beautiful</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2039/Make%20the%20array%20beautiful_GFG">Click Here</a></td>
   </tr>
   
 </table> 
