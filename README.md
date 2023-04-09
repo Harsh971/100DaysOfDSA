@@ -139,6 +139,9 @@
    <tr>
    <td>Day 39</td> <td>08-April</td> <td>✅</td>  <td>Clone Graph</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2039/Clone%20Graph_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+   <td>Day 40</td> <td>09-April</td> <td>✅</td>  <td>Largest Color Value in a Directed Graph</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2040/Largest%20Color%20Value%20in%20a%20Directed%20Graph_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -264,6 +267,9 @@
   </tr>
     <tr>
    <td>Day 39</td> <td>08-April</td> <td>✅</td>  <td>Make the array beautiful</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2039/Make%20the%20array%20beautiful_GFG">Click Here</a></td>
+  </tr>
+  <tr>
+   <td>Day 40</td> <td>09-April</td> <td>✅</td>  <td>Special Digits</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2040/Special%20Digits_GFG">Click Here</a></td>
   </tr>
   
 </table> 
