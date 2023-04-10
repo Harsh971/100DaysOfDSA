@@ -142,6 +142,9 @@
    <tr>
    <td>Day 40</td> <td>09-April</td> <td>✅</td>  <td>Largest Color Value in a Directed Graph</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2040/Largest%20Color%20Value%20in%20a%20Directed%20Graph_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+   <td>Day 41</td> <td>10-April</td> <td>✅</td>  <td>Valid Parentheses</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2041/Valid%20Parentheses_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -270,6 +273,9 @@
   </tr>
   <tr>
    <td>Day 40</td> <td>09-April</td> <td>✅</td>  <td>Special Digits</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2040/Special%20Digits_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+   <td>Day 41</td> <td>10-April</td> <td>✅</td>  <td>Maximum Intersecting Lines</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2041/Maximum%20Intersecting%20Lines_GFG">Click Here</a></td>
   </tr>
   
 </table> 
