@@ -148,6 +148,9 @@
   <tr>
    <td>Day 42</td> <td>11-April</td> <td>✅</td>  <td>Removing Stars From a String</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2042/Removing%20Stars%20From%20a%20String_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+   <td>Day 43</td> <td>12-April</td> <td>✅</td>  <td>Simplify Path</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2043/Simplify%20Path_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -282,6 +285,9 @@
   </tr>
   <tr>
    <td>Day 42</td> <td>11-April</td> <td>✅</td>  <td>Maximum Length</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2042/Maximum%20Length_GFG">Click Here</a></td>
+  </tr>
+    <tr>
+   <td>Day 43</td> <td>12-April</td> <td>✅</td>  <td>Dominant Pairs</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2043/Dominant%20Pairs_GFG">Click Here</a></td>
   </tr>
 
   
