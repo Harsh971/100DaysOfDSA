@@ -151,6 +151,9 @@
    <tr>
    <td>Day 43</td> <td>12-April</td> <td>✅</td>  <td>Simplify Path</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2043/Simplify%20Path_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+   <td>Day 44</td> <td>13-April</td> <td>✅</td>  <td>Validate Stack Sequences</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2044/Validate%20Stack%20Sequences_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -288,6 +291,9 @@
   </tr>
     <tr>
    <td>Day 43</td> <td>12-April</td> <td>✅</td>  <td>Dominant Pairs</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2043/Dominant%20Pairs_GFG">Click Here</a></td>
+  </tr>
+    <tr>
+   <td>Day 44</td> <td>13-April</td> <td>✅</td>  <td>Partition the Array</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2044/Partition%20the%20Array_GFG">Click Here</a></td>
   </tr>
 
   
