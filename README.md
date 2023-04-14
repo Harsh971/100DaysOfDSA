@@ -154,6 +154,9 @@
    <tr>
    <td>Day 44</td> <td>13-April</td> <td>✅</td>  <td>Validate Stack Sequences</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2044/Validate%20Stack%20Sequences_Leetcode">Click Here</a></td>
   </tr>
+  <tr>
+   <td>Day 45</td> <td>14-April</td> <td>✅</td>  <td>Longest Palindromic Subsequence</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2045/Longest%20Palindromic%20Subsequence_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -294,6 +297,9 @@
   </tr>
     <tr>
    <td>Day 44</td> <td>13-April</td> <td>✅</td>  <td>Partition the Array</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2044/Partition%20the%20Array_GFG">Click Here</a></td>
+  </tr>
+  <tr>
+   <td>Day 45</td> <td>14-April</td> <td>✅</td>  <td>Remove the balls</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2045/Remove%20the%20balls_GFG">Click Here</a></td>
   </tr>
 
   
