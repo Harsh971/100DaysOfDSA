@@ -160,6 +160,9 @@
    <tr>
    <td>Day 46</td> <td>15-April</td> <td>✅</td>  <td>Maximum Value of K Coins From Piles</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2046/Maximum%20Value%20of%20K%20Coins%20From%20Piles_Leetcode">Click Here</a></td>
   </tr>
+    <tr>
+   <td>Day 47</td> <td>16-April</td> <td>✅</td>  <td>Number of Ways to Form a Target String Given a Dictionary</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2047/Number%20of%20Ways%20to%20Form%20a%20Target%20String%20Given%20a%20Dictionary_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -306,6 +309,9 @@
   </tr>
    <tr>
    <td>Day 46</td> <td>15-April</td> <td>✅</td>  <td>Find Total Time Taken</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2046/Find%20Total%20Time%20Taken_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+   <td>Day 47</td> <td>16-April</td> <td>✅</td>  <td>Unequal Arrays</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2047/Unequal%20Arrays_GFG">Click Here</a></td>
   </tr>
 
   
