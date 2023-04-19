@@ -163,6 +163,15 @@
     <tr>
    <td>Day 47</td> <td>16-April</td> <td>✅</td>  <td>Number of Ways to Form a Target String Given a Dictionary</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2047/Number%20of%20Ways%20to%20Form%20a%20Target%20String%20Given%20a%20Dictionary_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+   <td>Day 48</td> <td>17-April</td> <td>✅</td>  <td>Kids With the Greatest Number of Candies</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2048/Kids%20With%20the%20Greatest%20Number%20of%20Candies_Leetcode">Click Here</a></td>
+  </tr>
+    <tr>
+   <td>Day 49</td> <td>18-April</td> <td>✅</td>  <td>Merge Strings Alternately</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2049/Merge%20Strings%20Alternately_Leetcode">Click Here</a></td>
+  </tr>
+     <tr>
+   <td>Day 50</td> <td>19-April</td> <td>✅</td>  <td>Longest ZigZag Path in a Binary Tree</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2050/Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -312,6 +321,15 @@
   </tr>
    <tr>
    <td>Day 47</td> <td>16-April</td> <td>✅</td>  <td>Unequal Arrays</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2047/Unequal%20Arrays_GFG">Click Here</a></td>
+  </tr>
+    <tr>
+   <td>Day 48</td> <td>17-April</td> <td>✅</td>  <td>Job Sequencing Problem</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2048/Job%20Sequencing%20Problem_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+   <td>Day 49</td> <td>18-April</td> <td>✅</td>  <td>Minimum BST Sum Subtree</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2049/Minimum%20BST%20Sum%20Subtree_GFG">Click Here</a></td>
+  </tr>
+   <tr>
+   <td>Day 50</td> <td>19-April</td> <td>✅</td>  <td>Wifi Range</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2050/Wifi%20Range_GFG">Click Here</a></td>
   </tr>
 
   
