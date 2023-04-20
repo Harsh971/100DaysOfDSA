@@ -172,6 +172,9 @@
      <tr>
    <td>Day 50</td> <td>19-April</td> <td>✅</td>  <td>Longest ZigZag Path in a Binary Tree</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2050/Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+   <td>Day 51</td> <td>20-April</td> <td>✅</td>  <td>Maximum Width of Binary Tree</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2051/Maximum%20Width%20of%20Binary%20Tree_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -331,6 +334,10 @@
    <tr>
    <td>Day 50</td> <td>19-April</td> <td>✅</td>  <td>Wifi Range</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2050/Wifi%20Range_GFG">Click Here</a></td>
   </tr>
+     <tr>
+   <td>Day 51</td> <td>20-April</td> <td>✅</td>  <td>Bheem Wants Ladoos</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2051/Bheem%20Wants%20Ladoos_GFG">Click Here</a></td>
+  </tr>
+  
 
   
 </table> 
