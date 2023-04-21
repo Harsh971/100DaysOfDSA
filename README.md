@@ -175,6 +175,9 @@
    <tr>
    <td>Day 51</td> <td>20-April</td> <td>✅</td>  <td>Maximum Width of Binary Tree</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2051/Maximum%20Width%20of%20Binary%20Tree_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+   <td>Day 52</td> <td>21-April</td> <td>✅</td>  <td>Profitable Schemes</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2052/Profitable%20Schemes_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -336,6 +339,9 @@
   </tr>
      <tr>
    <td>Day 51</td> <td>20-April</td> <td>✅</td>  <td>Bheem Wants Ladoos</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2051/Bheem%20Wants%20Ladoos_GFG">Click Here</a></td>
+  </tr>
+     <tr>
+   <td>Day 52</td> <td>21-April</td> <td>✅</td>  <td>Prefix Suffix String</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2052/Prefix%20Suffix%20String_GFG">Click Here</a></td>
   </tr>
   
 
