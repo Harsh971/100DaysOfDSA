@@ -178,6 +178,9 @@
    <tr>
    <td>Day 52</td> <td>21-April</td> <td>✅</td>  <td>Profitable Schemes</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2052/Profitable%20Schemes_Leetcode">Click Here</a></td>
   </tr>
+   <tr>
+   <td>Day 53</td> <td>22-April</td> <td>✅</td>  <td>Minimum Insertion Steps to Make a String Palindrome</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2053/Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome_Leetcode">Click Here</a></td>
+  </tr>
   
   
 </table>
@@ -342,6 +345,9 @@
   </tr>
      <tr>
    <td>Day 52</td> <td>21-April</td> <td>✅</td>  <td>Prefix Suffix String</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2052/Prefix%20Suffix%20String_GFG">Click Here</a></td>
+  </tr>
+     <tr>
+   <td>Day 53</td> <td>22-April</td> <td>✅</td>  <td>Smaller Sum</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%2053/Smaller%20Sum_GFG">Click Here</a></td>
   </tr>
   
 
